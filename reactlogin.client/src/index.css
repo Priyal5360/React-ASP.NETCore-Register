@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Fredoka", sans-serif;
+    display: flex;
+    place-items: center;
+    min-height: 100vh;
+    background: url('./assets/login1.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
